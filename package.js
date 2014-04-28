@@ -3,8 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-	request: "2.2.9",
-	waitress: "0.0.2"
+	googlemaps: "0.1.9"
 });
 
 Package.on_use(function (api) {
