@@ -1,0 +1,1 @@
+googlemaps = Npm.require('googlemaps');
