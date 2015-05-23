@@ -1,4 +1,5 @@
 Package.describe({
+  "name": "stefcud:googlemaps-server",
   version: "1.0.1",
   summary: "NPM wrapper for node-googlemaps to be used in Meteor projects, google maps api for server side"
 });

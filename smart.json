@@ -1,5 +1,5 @@
 {
-  "name": "googlemaps-server",
+  "name": "stefcud:googlemaps-server",
   "description": "NPM wrapper for node-googlemaps to be used in Meteor projects, google maps api for server side",
   "homepage": "https://github.com/stefanocudini/meteor-googlemaps-server",
   "author": "Stefano Cudini",
