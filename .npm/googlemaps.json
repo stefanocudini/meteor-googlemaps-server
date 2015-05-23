@@ -1,7 +1,7 @@
 {
 	"dependencies": {
 		"googlemaps": {
-			"version": "0.1.4",
+			"version": "0.1.9",
 			"dependencies": {
 				"request": {
 					"version: "~2.2.9"
